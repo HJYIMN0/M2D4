@@ -33,12 +33,12 @@ public class Esercizio07_Script : MonoBehaviour
     }
 
 
-
+        
     // Start is called before the first frame update
     void Start()
     {
         GeneraArray(dimensioneArray, valoreMassimo, valoreMinimo);
-        StampaArray(array[dimensioneArray]);
+        StampaArray([array]);
         
     }
 
